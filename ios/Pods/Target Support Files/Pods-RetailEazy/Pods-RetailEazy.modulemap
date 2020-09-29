@@ -1,0 +1,6 @@
+module Pods_RetailEazy {
+  umbrella header "Pods-RetailEazy-umbrella.h"
+
+  export *
+  module * { export * }
+}

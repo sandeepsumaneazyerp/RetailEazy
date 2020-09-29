@@ -1,0 +1,6 @@
+module Pods_RetailEazy_RetailEazyTests {
+  umbrella header "Pods-RetailEazy-RetailEazyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

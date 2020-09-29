@@ -1,0 +1,137 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="in.retaileazy"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->E:\Eazy Erp Projects\RetailEazy\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->E:\Eazy Erp Projects\RetailEazy\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:4:5-67
+12-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:5:5-65
+13-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:5:22-63
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:6:5-65
+14-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:6:22-62
+15    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+15-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:7:5-70
+15-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:7:22-68
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:8:5-80
+16-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:8:22-77
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:9:5-81
+17-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:9:22-78
+18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+18-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:10:5-79
+18-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:10:22-76
+19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+19-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:11:5-81
+19-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:11:22-78
+20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+20-->[com.facebook.flipper:flipper:0.37.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\15cacb4283a7a012221743aaad25fff1\jetified-flipper-0.37.0\AndroidManifest.xml:16:5-76
+20-->[com.facebook.flipper:flipper:0.37.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\15cacb4283a7a012221743aaad25fff1\jetified-flipper-0.37.0\AndroidManifest.xml:16:22-73
+21
+22    <uses-feature
+22-->[:react-native-camera] E:\Eazy Erp Projects\RetailEazy\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:11:5-13:36
+23        android:name="android.hardware.camera"
+23-->[:react-native-camera] E:\Eazy Erp Projects\RetailEazy\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:12:9-47
+24        android:required="false" />
+24-->[:react-native-camera] E:\Eazy Erp Projects\RetailEazy\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:13:9-33
+25    <uses-feature
+25-->[:react-native-camera] E:\Eazy Erp Projects\RetailEazy\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:14:5-16:36
+26        android:name="android.hardware.camera.autofocus"
+26-->[:react-native-camera] E:\Eazy Erp Projects\RetailEazy\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:15:9-57
+27        android:required="false" /> <!-- Required by older versions of Google Play services to create GCM registration tokens -->
+27-->[:react-native-camera] E:\Eazy Erp Projects\RetailEazy\node_modules\react-native-camera\android\build\intermediates\library_manifest\generalDebug\AndroidManifest.xml:16:9-33
+28    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+28-->[com.google.android.gms:play-services-gcm:16.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\31f4fea86f136064f525c631aa9e178a\jetified-play-services-gcm-16.1.0\AndroidManifest.xml:23:5-82
+28-->[com.google.android.gms:play-services-gcm:16.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\31f4fea86f136064f525c631aa9e178a\jetified-play-services-gcm-16.1.0\AndroidManifest.xml:23:22-79
+29
+30    <application
+30-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:13:5-32:19
+31        android:name="in.retaileazy.MainApplication"
+31-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:14:7-38
+32        android:allowBackup="false"
+32-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:18:7-34
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\7f5aeccd48d5bc731df0adf1c8d7029e\core-1.1.0\AndroidManifest.xml:24:18-86
+34        android:debuggable="true"
+35        android:icon="@mipmap/ic_launcher"
+35-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:16:7-41
+36        android:label="@string/app_name"
+36-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:15:7-39
+37        android:roundIcon="@mipmap/ic_launcher_round"
+37-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:17:7-52
+38        android:theme="@style/AppTheme"
+38-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:19:7-38
+39        android:usesCleartextTraffic="true" >
+39-->E:\Eazy Erp Projects\RetailEazy\android\app\src\debug\AndroidManifest.xml:7:18-53
+40        <activity
+40-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:20:7-30:18
+41            android:name="in.retaileazy.MainActivity"
+41-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:21:9-37
+42            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+42-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:23:9-86
+43            android:label="@string/app_name"
+43-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:22:9-41
+44            android:launchMode="singleTask"
+44-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:24:9-40
+45            android:windowSoftInputMode="adjustResize" >
+45-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:25:9-51
+46            <intent-filter>
+46-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:26:9-29:25
+47                <action android:name="android.intent.action.MAIN" />
+47-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:27:13-65
+47-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:27:21-62
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:28:13-73
+49-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:28:23-70
+50            </intent-filter>
+51        </activity>
+52        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+52-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:31:7-84
+52-->E:\Eazy Erp Projects\RetailEazy\android\app\src\main\AndroidManifest.xml:31:17-81
+53
+54        <receiver
+54-->[:react-native-device-info] E:\Eazy Erp Projects\RetailEazy\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-19:20
+55            android:name="com.learnium.RNDeviceInfo.RNDeviceReceiver"
+55-->[:react-native-device-info] E:\Eazy Erp Projects\RetailEazy\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-70
+56            android:enabled="true"
+56-->[:react-native-device-info] E:\Eazy Erp Projects\RetailEazy\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-35
+57            android:exported="true" >
+57-->[:react-native-device-info] E:\Eazy Erp Projects\RetailEazy\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-36
+58            <intent-filter>
+58-->[:react-native-device-info] E:\Eazy Erp Projects\RetailEazy\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:29
+59                <action android:name="com.android.vending.INSTALL_REFERRER" />
+59-->[:react-native-device-info] E:\Eazy Erp Projects\RetailEazy\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-79
+59-->[:react-native-device-info] E:\Eazy Erp Projects\RetailEazy\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:25-76
+60            </intent-filter>
+61        </receiver>
+62
+63        <activity
+63-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\119049afd6fd14922e909f7ec8a26289\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+64            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+64-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\119049afd6fd14922e909f7ec8a26289\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+65            android:exported="false"
+65-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\119049afd6fd14922e909f7ec8a26289\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+66            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+66-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\119049afd6fd14922e909f7ec8a26289\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+67
+68        <meta-data
+68-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\c366f3c454faa365b9a6947a87cae9e2\jetified-play-services-basement-16.1.0\AndroidManifest.xml:23:9-25:69
+69            android:name="com.google.android.gms.version"
+69-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\c366f3c454faa365b9a6947a87cae9e2\jetified-play-services-basement-16.1.0\AndroidManifest.xml:24:13-58
+70            android:value="@integer/google_play_services_version" />
+70-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\c366f3c454faa365b9a6947a87cae9e2\jetified-play-services-basement-16.1.0\AndroidManifest.xml:25:13-66
+71    </application>
+72
+73</manifest>

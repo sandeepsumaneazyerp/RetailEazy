@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RetailEazy.iml" filepath="$PROJECT_DIR$/.idea/modules/RetailEazy.iml" group="RetailEazy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="RetailEazy/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1456228863/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1456228863/react-native-community_async-storage.iml" group="RetailEazy/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-531489604/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-531489604/react-native-community_masked-view.iml" group="RetailEazy/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-675969510/react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/-675969510/react-native-device-info.iml" group="RetailEazy/react-native-device-info" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1074414491/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1074414491/react-native-gesture-handler.iml" group="RetailEazy/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1491602172/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1491602172/react-native-linear-gradient.iml" group="RetailEazy/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1174452831/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1174452831/react-native-reanimated.iml" group="RetailEazy/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1237102408/react-native-restart.iml" filepath="$PROJECT_DIR$/.idea/modules/1237102408/react-native-restart.iml" group="RetailEazy/react-native-restart" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1923423932/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1923423932/react-native-safe-area-context.iml" group="RetailEazy/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1614920100/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1614920100/react-native-screens.iml" group="RetailEazy/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1964873942/react-native-sqlite-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1964873942/react-native-sqlite-storage.iml" group="RetailEazy/react-native-sqlite-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-83620679/react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-83620679/react-native-svg.iml" group="RetailEazy/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1579103196/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1579103196/react-native-vector-icons.iml" group="RetailEazy/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-853248626/react-native-version-info.iml" filepath="$PROJECT_DIR$/.idea/modules/-853248626/react-native-version-info.iml" group="RetailEazy/react-native-version-info" />
+    </modules>
+  </component>
+</project>
